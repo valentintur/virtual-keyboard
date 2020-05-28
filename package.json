@@ -1,0 +1,27 @@
+{
+  "name": "valentintur-rsspl2020q1",
+  "version": "1.0.0",
+  "description": "Private repository for @valentintur",
+  "main": "index.js",
+  "dependencies": {},
+  "devDependencies": {
+    "babel-eslint": "^10.1.0",
+    "eslint": "^6.8.0",
+    "eslint-config-airbnb-base": "^14.1.0",
+    "eslint-plugin-import": "^2.20.2"
+  },
+  "scripts": {
+    "test": "npm run lint",
+    "lint": "node node_modules/eslint/bin/eslint.js ./virtual-keyboard/assets/js/"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/rolling-scopes-school/valentintur-RSSPL2020Q1.git"
+  },
+  "author": "Valentin Tur",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/rolling-scopes-school/valentintur-RSSPL2020Q1/issues"
+  },
+  "homepage": "https://github.com/rolling-scopes-school/valentintur-RSSPL2020Q1#readme"
+}
